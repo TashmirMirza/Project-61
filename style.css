@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    padding-top: 400px;
+}
+
+
+#Home {
+    height: 100%;
+    width: 100%;
+    color: 000000;
+    position: absolute;
+    overflow: hidden;
+    display: table;
+    height: 800px;
+}
+
+#line {
+    height: 6px;
+    Width: 70px;
+    background-color: FFFF00;
+    margin: 8px auto;
+}
+
+
+
+.menu {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.links {
+font-family: 'Chela One', cursive;
+    display: inline;
+    font-size: 30px;
+    padding-left:33px;
+    padding-right: 25px;
+}
+
+.links:hover {
+    font-size: 35;
+    text-decoration: underline;
+}
+
+#contact_1 h3 {
+    display: inline;
+}
+
+#address iframe {
+    width: 100%;
+}
+html{
+    scroll-behavior: smooth;
+}
+.menu a
+{
+    text-decoration: none;
+}
+#Writings a
+{
+    color:blue;
+    text-decoration:underline;
+    text-shadow: none;
+    
+}
